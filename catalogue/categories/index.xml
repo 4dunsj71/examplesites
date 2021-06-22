@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on page front</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on page front</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 15:54:25 +0530</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chandeliers</title>
+      <link>http://example.org/categories/chandeliers/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://example.org/categories/chandeliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor Light</title>
+      <link>http://example.org/categories/floor-light/</link>
+      <pubDate>Sat, 12 May 2018 15:48:00 +0530</pubDate>
+      
+      <guid>http://example.org/categories/floor-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall Light</title>
+      <link>http://example.org/categories/wall-light/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://example.org/categories/wall-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pendant Light</title>
+      <link>http://example.org/categories/pendant-light/</link>
+      <pubDate>Thu, 10 May 2018 20:17:46 +0530</pubDate>
+      
+      <guid>http://example.org/categories/pendant-light/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
